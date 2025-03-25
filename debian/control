@@ -1,0 +1,29 @@
+Source: setoolkit
+Section: unknown
+Priority: optional
+Maintainer: Joe <joe@rstrike.my.id>
+Rules-Requires-Root: no
+Build-Depends:
+ debhelper-compat (= 13),
+Standards-Version: 4.6.2
+Homepage: https://github.com/trustedsec/social-engineer-toolkit
+Vcs-Browser: https://github.com/pwnpine/setoolkit
+Vcs-Git: https://github.com/pwnpine/setoolkit.git
+
+Package: setoolkit
+Architecture: any
+Multi-Arch: foreign
+Depends:
+ metasploit-framework,
+ python3-pycryptodome,
+ python3-requests,
+ python3-openssl,
+ python3-impacket,
+ python3-qrcode,
+ python3-pil,
+ python3-pefile,
+ python3-pexpect,
+ python3-pymssql,
+ ${shlibs:Depends},
+ ${misc:Depends},
+Description: The social engineer toolkit (SET).

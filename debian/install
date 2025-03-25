@@ -1,0 +1,7 @@
+modules usr/share/setoolkit/
+readme usr/share/setoolkkit/
+src usr/share/setoolkit/
+seautomate usr/share/setoolkit/
+seproxy usr/share/setoolkit/
+setoolkit usr/share/setoolkit/
+seupdate usr/share/setoolkit/
