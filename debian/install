@@ -1,7 +1,7 @@
-modules usr/share/setoolkit/
-readme usr/share/setoolkkit/
-src usr/share/setoolkit/
-seautomate usr/share/setoolkit/
-seproxy usr/share/setoolkit/
-setoolkit usr/share/setoolkit/
-seupdate usr/share/setoolkit/
+modules usr/local/Library/Applications/setoolkit/
+readme usr/local/Library/Applications/setoolkkit/
+src usr/local/Library/Applications/setoolkit/
+seautomate usr/local/Library/Applications/setoolkit/
+seproxy usr/local/Library/Applications/setoolkit/
+setoolkit usr/local/Library/Applications/setoolkit/
+seupdate usr/local/Library/Applications/setoolkit/
